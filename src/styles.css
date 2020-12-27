@@ -5,7 +5,7 @@ body {
 }
 
 .app {
-  margin: 100px;
+  margin: 120px auto 20px;
   border: solid 4px #35a8ba;
   border-radius: 20px;
   box-shadow: 5px 5px;
@@ -70,3 +70,6 @@ button {
   font-size: 16px;
   color: #35a8ba;
 }
+
+p {text-align: center;
+padding: 0;}
